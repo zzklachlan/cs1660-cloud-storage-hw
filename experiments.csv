@@ -1,0 +1,3 @@
+partition,id,date,filename,comment
+experiment1,1,2/13/21,exp1.csv,Words
+experiment2,2,2/20/21,exp2.csv,2nd experiment
