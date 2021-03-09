@@ -10,7 +10,7 @@
 
 ## Print of my code
 
-My code (***storage.py***) is push in this github repo.
+My code (***storage.py***) is pushed onto this github repo.
 
 ## Screenshot of the query
 
